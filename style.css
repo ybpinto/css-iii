@@ -1,0 +1,24 @@
+.box{
+	width:200px;
+	height:200px;
+}
+
+#boxA{
+	background-color: #01628C;
+}
+
+#boxB{
+	background-color: #00B0D2;
+}
+
+#boxC{
+	background-color: #E6F7F9;
+}
+
+#boxD{
+	background-color: #96C34C;
+}
+
+#boxE{
+	background-color: #333;
+}
